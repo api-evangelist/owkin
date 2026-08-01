@@ -1,0 +1,105 @@
+# K Pro Documentation
+
+## K Pro Documentation
+
+- [What is K Pro?](https://docs.owkin.com/getting-started/home.md)
+- [Quickstart guide](https://docs.owkin.com/getting-started/quickstart-guide.md): This guide gets you from zero to a real K Pro result in two prompts. For background on what K Pro does, see What is K Pro?
+- [Prompting guide & prompt library](https://docs.owkin.com/getting-started/prompting-guide-and-prompt-library.md)
+- [K Pro for teams](https://docs.owkin.com/getting-started/prompting-guide-and-prompt-library-1.md)
+- [What's included in your plan](https://docs.owkin.com/getting-started/service-tiers.md)
+- [How K Pro works](https://docs.owkin.com/what-you-can-do-with-k-pro/overview.md)
+- [Target identification & indication discovery](https://docs.owkin.com/what-you-can-do-with-k-pro/overview-1.md)
+- [Explore a cohort](https://docs.owkin.com/what-you-can-do-with-k-pro/overview-1/main-features.md)
+- [Compare groups](https://docs.owkin.com/what-you-can-do-with-k-pro/overview-1/visualisation-capabilities.md)
+- [Rank candidate targets](https://docs.owkin.com/what-you-can-do-with-k-pro/overview-1/visualisation-capabilities-1.md)
+- [Indication prioritization & target validation](https://docs.owkin.com/what-you-can-do-with-k-pro/trial-navigator.md)
+- [Drug positioning & treatment landscape](https://docs.owkin.com/what-you-can-do-with-k-pro/trial-navigator-1.md)
+- [Competitive positioning](https://docs.owkin.com/what-you-can-do-with-k-pro/trial-navigator-1/competitive-positioning.md)
+- [Navigate clinical trials](https://docs.owkin.com/what-you-can-do-with-k-pro/trial-navigator-1/navigate-clinical-trials.md)
+- [Literature review](https://docs.owkin.com/what-you-can-do-with-k-pro/trial-navigator-2.md)
+- [Review & synthetize literature](https://docs.owkin.com/what-you-can-do-with-k-pro/trial-navigator-2/review-and-synthetize-literature.md)
+- [Explore the patent landscape](https://docs.owkin.com/what-you-can-do-with-k-pro/trial-navigator-2/patent-llm.md)
+- [Interactive data visualisations](https://docs.owkin.com/what-you-can-do-with-k-pro/patent-llm.md)
+- [Prompting for a plot](https://docs.owkin.com/what-you-can-do-with-k-pro/patent-llm/prompting-for-a-plot.md)
+- [Limitations & how to evaluate results](https://docs.owkin.com/what-you-can-do-with-k-pro/patent-llm/limitations-and-how-to-evaluate-results.md)
+- [Example: Visualisations by modalities](https://docs.owkin.com/what-you-can-do-with-k-pro/patent-llm/example-visualisations-by-modalities.md)
+- [Use cases library](https://docs.owkin.com/what-you-can-do-with-k-pro/prompting-guide-and-prompt-library-1.md)
+- [Case studies library](https://docs.owkin.com/what-you-can-do-with-k-pro/prompting-guide-and-prompt-library-1-1.md)
+- [Patent LLM](https://docs.owkin.com/what-you-can-do-with-k-pro/trial-navigator-3.md)
+- [Customize K Pro](https://docs.owkin.com/collaborate-and-share/k-pro-data-model-and-technical-references.md)
+- [Collaboration features](https://docs.owkin.com/collaborate-and-share/k-pro-data-model-and-technical-references-1.md)
+- [Browse the dataset catalog](https://docs.owkin.com/explore-and-analyse-data/data-catalog.md)
+- [Datasets available in K Pro Free](https://docs.owkin.com/explore-and-analyse-data/data-catalog/datasets-available-in-k-pro-free.md)
+- [Mosaic Window](https://docs.owkin.com/explore-and-analyse-data/data-catalog/datasets-available-in-k-pro-free/mosaic-window.md)
+- [TCGA dataset](https://docs.owkin.com/explore-and-analyse-data/data-catalog/datasets-available-in-k-pro-free/tcga-dataset.md)
+- [Browse for additional datasets of interests](https://docs.owkin.com/explore-and-analyse-data/data-catalog/browse-for-additional-datasets-of-interests.md)
+- [MOSAIC dataset](https://docs.owkin.com/explore-and-analyse-data/data-catalog/browse-for-additional-datasets-of-interests/mosaic-dataset.md)
+- [Understand your data (QC, methods)](https://docs.owkin.com/explore-and-analyse-data/k-pro-data-model-and-technical-references.md)
+- [About Owkin-managed data](https://docs.owkin.com/explore-and-analyse-data/k-pro-data-model-and-technical-references/last-mile-transformation-pipeline.md): An opinionated structuring framework designed to bridge the gap between bioinformatics outputs and high-performance analytical queries.
+- [The AI-maturity model](https://docs.owkin.com/explore-and-analyse-data/k-pro-data-model-and-technical-references/the-ai-maturity-model.md)
+- [Supported modalities](https://docs.owkin.com/explore-and-analyse-data/k-pro-data-model-and-technical-references/supported-modalities.md)
+- [Preferred ontologies and nomenclatures](https://docs.owkin.com/explore-and-analyse-data/k-pro-data-model-and-technical-references/preferred-ontologies-and-nomenclatures.md)
+- [Connecting your data sources](https://docs.owkin.com/integrate-your-data/connecting-your-data-sources.md)
+- [Preparing your data](https://docs.owkin.com/integrate-your-data/preparing-your-data.md)
+- [Data enrichment](https://docs.owkin.com/integrate-your-data/data-enrichment.md)
+- [Pathology Explorer MCP : AI-Powered Tissue Analysis](https://docs.owkin.com/connect-and-integrate/pathology-explorer-mcp-ai-powered-tissue-analysis.md)
+- [Getting started](https://docs.owkin.com/connect-and-integrate/pathology-explorer-mcp-ai-powered-tissue-analysis/getting-started.md)
+- [Understanding Pathology Explorer's Analysis Capabilities](https://docs.owkin.com/connect-and-integrate/pathology-explorer-mcp-ai-powered-tissue-analysis/understanding-pathology-explorers-analysis-capabilities.md)
+- [API documentation](https://docs.owkin.com/connect-and-integrate/authentication-and-sso.md)
+- [MCP & Agent tools](https://docs.owkin.com/connect-and-integrate/authentication-and-sso-1.md)
+- [SSO and authentication](https://docs.owkin.com/connect-and-integrate/authentication-and-sso-2.md)
+- [Model governance](https://docs.owkin.com/governance-and-security/model-governance.md)
+- [Trust and verification](https://docs.owkin.com/governance-and-security/model-governance/trust-and-verification.md)
+- [Model versioning](https://docs.owkin.com/governance-and-security/model-governance/model-versioning.md): \[REVIEW NEEDED] — Specific model version numbers, release dates, and changelog for K Pro agents and underlying models not documented in sources. Model versioning policy needed.
+- [Explainability and traceability](https://docs.owkin.com/governance-and-security/model-governance/explainability-and-traceability.md)
+- [On K Pro skills](https://docs.owkin.com/governance-and-security/model-governance/explainability-and-traceability/on-k-pro-skills.md)
+- [AI ethics and oversight](https://docs.owkin.com/governance-and-security/ai-ethics-and-oversight.md)
+- [AI ethical framework](https://docs.owkin.com/governance-and-security/ai-ethics-and-oversight/ai-ethical-framework.md)
+- [External oversight](https://docs.owkin.com/governance-and-security/ai-ethics-and-oversight/external-oversight.md)
+- [Security architecture](https://docs.owkin.com/governance-and-security/security-architecture.md)
+- [Security measures](https://docs.owkin.com/governance-and-security/security-architecture/security-measures.md)
+- [API documentation](https://docs.owkin.com/governance-and-security/security-architecture/api-documentation.md): tbd
+- [Enterprise security](https://docs.owkin.com/governance-and-security/security-architecture/enterprise-security.md)
+- [Vendor management](https://docs.owkin.com/governance-and-security/security-architecture/vendor-management.md)
+- [Privacy architecture](https://docs.owkin.com/governance-and-security/privacy-architecture.md)
+- [Access controls and permissions](https://docs.owkin.com/governance-and-security/access-controls-and-permissions.md)
+- [Infrastructure and hosting](https://docs.owkin.com/governance-and-security/infrastructure-and-hosting.md)
+- [Legal](https://docs.owkin.com/terms-and-support/legal.md)
+- [Terms and conditions](https://docs.owkin.com/terms-and-support/legal/terms-and-conditions.md)
+- [What are the previous versions of Owkin K-Pro Terms & Conditions?](https://docs.owkin.com/terms-and-support/legal/terms-and-conditions/what-are-the-previous-versions-of-owkin-k-pro-terms-and-conditions.md)
+- [Cookie policy](https://docs.owkin.com/terms-and-support/legal/cookie-policy.md)
+- [Subprocessors](https://docs.owkin.com/terms-and-support/legal/subprocessors.md)
+- [Support](https://docs.owkin.com/terms-and-support/support.md)
+- [Standard support & availability](https://docs.owkin.com/terms-and-support/support/support-and-sla.md)
+- [Acceptable Use Policy](https://docs.owkin.com/terms-and-support/support/acceptable-use-policy.md)
+- [Changelog](https://docs.owkin.com/terms-and-support/support/changelog.md)
+- [FAQ](https://docs.owkin.com/terms-and-support/support/faq.md)
+- [Implementation lifecycle & communication protocol](https://docs.owkin.com/terms-and-support/support/implementation-lifecycle-and-communication-protocol.md)
+- [Account management](https://docs.owkin.com/terms-and-support/support/account-management.md)
+- [Glossary](https://docs.owkin.com/terms-and-support/support/glossary.md): This glossary provides definitions for key terms used throughout the K Pro documentation. It is non-exhaustive; terms are listed alphabetically within thematic groups for ease of navigation.
+
+## Help Center
+
+- [Help Center](https://docs.owkin.com/help-center/readme.md)
+- [How do I sign in to K-Pro for the first time?](https://docs.owkin.com/help-center/getting-started/how-do-i-sign-in-to-k-pro-for-the-first-time.md)
+- [What data is available in K-Pro?](https://docs.owkin.com/help-center/getting-started/what-data-is-available-in-k-pro.md)
+- [My queries keep failing or returning only literature summaries](https://docs.owkin.com/help-center/running-analyses-and-working-with-results/my-queries-keep-failing-or-returning-only-literature-summaries.md)
+- [How do I refine, iterate, and export a chart?](https://docs.owkin.com/help-center/running-analyses-and-working-with-results/how-do-i-refine-iterate-and-export-a-chart.md)
+- ["User quota exceeded" error](https://docs.owkin.com/help-center/troubleshooting/user-quota-exceeded-error.md)
+- ["Operation not allowed" error](https://docs.owkin.com/help-center/troubleshooting/operation-not-allowed-error.md)
+
+
+---
+
+# Agent Instructions
+This documentation is published with GitBook. GitBook is the documentation platform designed so that both humans and AI agents can read, navigate, and reason over technical content effectively. Learn more at gitbook.com.
+
+## Querying This Documentation
+If you need additional information, you can query the documentation dynamically by asking a question.
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+```
+GET https://docs.owkin.com/getting-started/home.md?ask=<question>
+```
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.

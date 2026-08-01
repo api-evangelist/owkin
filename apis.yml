@@ -1,7 +1,25 @@
 aid: owkin
 name: OWKIN
-description: 'OWKIN is a company surfaced as a portfolio company of gv and added to the API Evangelist
-  network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Owkin is a French-American AI-biotech company (offices in New York, Paris, and London)
+  that builds K Pro, an agentic "AI biology" platform for pharmaceutical and biotech R&D. K Pro pairs
+  large-language-model agents with Owkin''s multimodal patient-data network — spanning 164 academic
+  institutions, the MOSAIC spatial-omics dataset, and public sources such as TCGA and PubMed — to help
+  scientists identify drug targets, prioritize indications, explore cohorts, review literature, and
+  navigate clinical trials. Owkin is also known for open-source federated-learning and computational-
+  pathology research (FLamby, PyDESeq2, HistoSSLscaling). The company is backed by GV (Google Ventures).
+  Owkin exposes product documentation and an agentic app (K Pro) but no public developer/REST API.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/6391f9bc53c032303ab23fb0/6846da3abb1bef83bcbc29c3_Open-Graph-Owkin-Home.jpg
 url: https://raw.githubusercontent.com/api-evangelist/owkin/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,10 +29,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
-- Ai
+- AI
+- Biotech
+- Drug Discovery
+- Healthcare
+- Machine Learning
+- Precision Medicine
+- Life Sciences
+- Federated Learning
+- Agentic AI
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +49,31 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://owkin.com
+  url: https://www.owkin.com
+- type: Documentation
+  url: https://docs.owkin.com/
+- type: GettingStarted
+  url: https://docs.owkin.com/getting-started/quickstart-guide
+- type: GitHubOrganization
+  url: https://github.com/owkin
+- type: Blog
+  url: https://www.owkin.com/blog
+- type: Support
+  url: https://www.owkin.com/contact
+- type: Pricing
+  url: https://docs.owkin.com/getting-started/service-tiers
+- type: SignUp
+  url: https://k.owkin.com
+- type: PrivacyPolicy
+  url: https://www.owkin.com/privacy-policy
+- type: TermsOfService
+  url: https://www.owkin.com/terms-of-use
+- type: LLMsTxt
+  url: llms/owkin-llms.txt
+- type: DomainSecurity
+  url: security/owkin-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
