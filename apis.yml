@@ -8,6 +8,17 @@ description: 'Owkin is a French-American AI-biotech company (offices in New York
   navigate clinical trials. Owkin is also known for open-source federated-learning and computational-
   pathology research (FLamby, PyDESeq2, HistoSSLscaling). The company is backed by GV (Google Ventures).
   Owkin exposes product documentation and an agentic app (K Pro) but no public developer/REST API.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
