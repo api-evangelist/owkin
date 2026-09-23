@@ -1,0 +1,30 @@
+# Front Door AI Index — owkin — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: owkin
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.owkin.com
+  final_host: www.owkin.com
+  ownership: own
+  owner: owkin
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 25
+  host_score: 25
+  density: 35.77
+  words: 699
+  tiers:
+    agentic: 2
+    core: 23
+    model: 0
+  ambiguous: 3
+  top_terms:
+    AI: 22
+    intelligence: 2
+    AI agent: 1
+    agent: 1
+    agentic: 1
+    foundation model: 1
