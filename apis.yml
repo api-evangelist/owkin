@@ -44,14 +44,14 @@ modified: '2026-07-20'
 tags:
 - Company
 - Artificial Intelligence
-- Biotech
+- Biotechnology
 - Drug Discovery
 - Healthcare
-- Machine-Learning
+- Machine Learning
 - Precision Medicine
 - Life Sciences
 - Federated Learning
-- Agentic AI
+- AI Agents
 tags_raw:
 - Company
 - AI
@@ -63,6 +63,7 @@ tags_raw:
 - Life Sciences
 - Federated Learning
 - Agentic AI
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
